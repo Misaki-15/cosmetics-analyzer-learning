@@ -4,6 +4,9 @@
     "功效": {
       "保湿": [
         "不干涩"
+      ],
+      "护发": [
+        "垂顺"
       ]
     },
     "类型": {},
@@ -12,7 +15,8 @@
   "confidence": {},
   "userFeedback": {},
   "keywordScores": {
-    "不干涩": 0.7
+    "不干涩": 0.7,
+    "垂顺": 0.7
   },
   "conflictLog": [],
   "removedKeywords": {
@@ -20,7 +24,7 @@
       "亮泽"
     ]
   },
-  "lastUpdated": "2025-07-02T08:24:48.658Z",
+  "lastUpdated": "2025-07-02T08:24:53.438Z",
   "version": "2.4-Misaki15",
   "userCorrections": [],
   "keywordFrequency": {},
@@ -29,6 +33,6 @@
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
-  "lastSyncTime": "2025-07-02T08:24:49.055Z",
+  "lastSyncTime": "2025-07-02T08:24:53.766Z",
   "syncSource": "web-app"
 }
