@@ -4,7 +4,8 @@
     "功效": {
       "护发": [
         "垂顺",
-        "亮泽"
+        "亮泽",
+        "蓬蓬"
       ],
       "保湿": [
         "不干涩"
@@ -18,16 +19,16 @@
   "keywordScores": {
     "垂顺": 0.7,
     "不干涩": 0.7,
-    "亮泽": 0.7
+    "亮泽": 0.7,
+    "蓬蓬": 0.7
   },
   "conflictLog": [],
   "removedKeywords": {
     "功效-护发": [
-      "亮泽",
-      "蓬蓬"
+      "亮泽"
     ]
   },
-  "lastUpdated": "2025-07-02T08:17:18.846Z",
+  "lastUpdated": "2025-07-02T08:17:31.909Z",
   "version": "2.4-Misaki15",
   "userCorrections": [],
   "keywordFrequency": {},
@@ -36,6 +37,6 @@
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
-  "lastSyncTime": "2025-07-02T08:17:19.266Z",
+  "lastSyncTime": "2025-07-02T08:17:32.335Z",
   "syncSource": "web-app"
 }
