@@ -1,30 +1,16 @@
 {
   "corrections": [],
   "newKeywords": {
-    "功效": {
-      "保湿": [
-        "不干涩"
-      ],
-      "护发": [
-        "垂顺",
-        "蓬蓬",
-        "亮泽"
-      ]
-    },
+    "功效": {},
     "类型": {},
     "持续性": {}
   },
   "confidence": {},
   "userFeedback": {},
-  "keywordScores": {
-    "不干涩": 0.7,
-    "垂顺": 0.7,
-    "蓬蓬": 0.7,
-    "亮泽": 0.7
-  },
+  "keywordScores": {},
   "conflictLog": [],
   "removedKeywords": {},
-  "lastUpdated": "2025-07-02T08:42:50.470Z",
+  "lastUpdated": "2025-07-03T08:40:54.438Z",
   "version": "2.4-Misaki15",
   "userCorrections": [],
   "keywordFrequency": {},
@@ -33,6 +19,6 @@
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
-  "lastSyncTime": "2025-07-02T08:42:51.809Z",
+  "lastSyncTime": "2025-07-03T08:41:01.446Z",
   "syncSource": "web-app"
 }
