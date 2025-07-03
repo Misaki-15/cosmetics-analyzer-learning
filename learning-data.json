@@ -15,7 +15,9 @@
     "温和": 0.95,
     "刺激": 0.85,
     "感觉": 1,
-    "防护": 0.7
+    "防护": 0.5499999999999999,
+    "防护力": 1,
+    "使用后": 1
   },
   "conflictLog": [],
   "removedKeywords": {
@@ -24,7 +26,7 @@
       "防护力"
     ]
   },
-  "lastUpdated": "2025-07-03T09:20:11.554Z",
+  "lastUpdated": "2025-07-03T09:20:14.518Z",
   "version": "2.4-Misaki15",
   "userCorrections": [
     {
@@ -98,14 +100,50 @@
       "correctionType": "replace",
       "timestamp": "2025-07-03T09:14:35.156Z",
       "confidence": 0
+    },
+    {
+      "id": 1751534414803,
+      "resultId": 1751534364849,
+      "text": "使用后，提升宝贝肌肤防护力",
+      "dimension": "dimension1",
+      "oldValue": "修护",
+      "newValue": "修护",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2025-07-03T09:20:14.803Z",
+      "confidence": 0.7999999999999999
+    },
+    {
+      "id": 1751534414803,
+      "resultId": 1751534364849,
+      "text": "使用后，提升宝贝肌肤防护力",
+      "dimension": "dimension2",
+      "oldValue": "使用后体验",
+      "newValue": "使用后体验",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2025-07-03T09:20:14.803Z",
+      "confidence": 0.8
+    },
+    {
+      "id": 1751534414803,
+      "resultId": 1751534364849,
+      "text": "使用后，提升宝贝肌肤防护力",
+      "dimension": "dimension3",
+      "oldValue": "即时",
+      "newValue": "即时",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2025-07-03T09:20:14.803Z",
+      "confidence": 0
     }
   ],
   "keywordFrequency": {},
   "learningStats": {
-    "totalCorrections": 6,
+    "totalCorrections": 9,
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
-  "lastSyncTime": "2025-07-03T09:20:11.866Z",
+  "lastSyncTime": "2025-07-03T09:20:14.823Z",
   "syncSource": "web-app"
 }
