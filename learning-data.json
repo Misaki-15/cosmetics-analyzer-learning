@@ -7,18 +7,59 @@
   },
   "confidence": {},
   "userFeedback": {},
-  "keywordScores": {},
+  "keywordScores": {
+    "温和": 1,
+    "刺激": 1,
+    "感觉": 1
+  },
   "conflictLog": [],
   "removedKeywords": {},
-  "lastUpdated": "2025-07-03T09:11:40.434Z",
+  "lastUpdated": "2025-07-03T09:14:28.143Z",
   "version": "2.4-Misaki15",
-  "userCorrections": [],
+  "userCorrections": [
+    {
+      "id": 1751534065121,
+      "resultId": 1751533950138,
+      "text": "感觉产品温和不刺激",
+      "dimension": "dimension1",
+      "oldValue": "舒缓, 其他",
+      "newValue": "舒缓, 其他",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2025-07-03T09:14:25.121Z",
+      "confidence": 0.7
+    },
+    {
+      "id": 1751534065121,
+      "resultId": 1751533950138,
+      "text": "感觉产品温和不刺激",
+      "dimension": "dimension2",
+      "oldValue": "温和宣称, 使用感受",
+      "newValue": "温和宣称, 使用感受",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2025-07-03T09:14:25.121Z",
+      "confidence": 0.8
+    },
+    {
+      "id": 1751534065121,
+      "resultId": 1751533950138,
+      "text": "感觉产品温和不刺激",
+      "dimension": "dimension3",
+      "oldValue": "即时",
+      "newValue": "即时",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2025-07-03T09:14:25.121Z",
+      "confidence": 0
+    }
+  ],
   "keywordFrequency": {},
   "learningStats": {
-    "totalCorrections": 0,
+    "totalCorrections": 3,
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
-  "lastSyncTime": "2025-07-03T09:11:40.741Z",
+  "lastSyncTime": "2025-07-03T09:14:30.258Z",
   "syncSource": "web-app"
 }
