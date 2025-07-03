@@ -13,9 +13,9 @@
   "userFeedback": {},
   "keywordScores": {
     "温和": 0.95,
-    "刺激": 0.85,
+    "刺激": 0.95,
     "感觉": 1,
-    "防护": 0.5499999999999999,
+    "防护": 0.3999999999999999,
     "防护力": 1,
     "使用后": 1
   },
@@ -26,7 +26,7 @@
       "防护力"
     ]
   },
-  "lastUpdated": "2025-07-03T09:20:22.679Z",
+  "lastUpdated": "2025-07-03T09:20:25.613Z",
   "version": "2.4-Misaki15",
   "userCorrections": [
     {
@@ -136,14 +136,50 @@
       "correctionType": "replace",
       "timestamp": "2025-07-03T09:20:14.803Z",
       "confidence": 0
+    },
+    {
+      "id": 1751534424495,
+      "resultId": 1751534364854,
+      "text": "使用后，帮助肌肤抵御外界刺激（瓶身，多维防护）",
+      "dimension": "dimension1",
+      "oldValue": "舒缓",
+      "newValue": "舒缓",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2025-07-03T09:20:24.495Z",
+      "confidence": 0.9
+    },
+    {
+      "id": 1751534424495,
+      "resultId": 1751534364854,
+      "text": "使用后，帮助肌肤抵御外界刺激（瓶身，多维防护）",
+      "dimension": "dimension2",
+      "oldValue": "使用后体验",
+      "newValue": "使用后体验",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2025-07-03T09:20:24.495Z",
+      "confidence": 0.8
+    },
+    {
+      "id": 1751534424495,
+      "resultId": 1751534364854,
+      "text": "使用后，帮助肌肤抵御外界刺激（瓶身，多维防护）",
+      "dimension": "dimension3",
+      "oldValue": "即时",
+      "newValue": "即时",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2025-07-03T09:20:24.495Z",
+      "confidence": 0
     }
   ],
   "keywordFrequency": {},
   "learningStats": {
-    "totalCorrections": 9,
+    "totalCorrections": 12,
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
-  "lastSyncTime": "2025-07-03T09:20:23.113Z",
+  "lastSyncTime": "2025-07-03T09:20:26.008Z",
   "syncSource": "web-app"
 }
