@@ -24,7 +24,7 @@
       "防护力"
     ]
   },
-  "lastUpdated": "2025-07-03T09:20:01.262Z",
+  "lastUpdated": "2025-07-03T09:20:03.913Z",
   "version": "2.4-Misaki15",
   "userCorrections": [
     {
@@ -106,6 +106,6 @@
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
-  "lastSyncTime": "2025-07-03T09:20:01.790Z",
+  "lastSyncTime": "2025-07-03T09:20:04.216Z",
   "syncSource": "web-app"
 }
