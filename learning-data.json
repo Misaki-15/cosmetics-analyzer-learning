@@ -1,7 +1,11 @@
 {
   "corrections": [],
   "newKeywords": {
-    "功效": {},
+    "功效": {
+      "修护": [
+        "防护"
+      ]
+    },
     "类型": {},
     "持续性": {}
   },
@@ -10,7 +14,8 @@
   "keywordScores": {
     "温和": 0.95,
     "刺激": 0.85,
-    "感觉": 1
+    "感觉": 1,
+    "防护": 0.7
   },
   "conflictLog": [],
   "removedKeywords": {
@@ -19,7 +24,7 @@
       "防护力"
     ]
   },
-  "lastUpdated": "2025-07-03T09:19:58.694Z",
+  "lastUpdated": "2025-07-03T09:20:01.262Z",
   "version": "2.4-Misaki15",
   "userCorrections": [
     {
@@ -101,6 +106,6 @@
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
-  "lastSyncTime": "2025-07-03T09:19:59.046Z",
+  "lastSyncTime": "2025-07-03T09:20:01.790Z",
   "syncSource": "web-app"
 }
