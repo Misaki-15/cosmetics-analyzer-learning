@@ -1,185 +1,24 @@
 {
   "corrections": [],
   "newKeywords": {
-    "功效": {
-      "修护": [
-        "防护"
-      ]
-    },
+    "功效": {},
     "类型": {},
     "持续性": {}
   },
   "confidence": {},
   "userFeedback": {},
-  "keywordScores": {
-    "温和": 0.95,
-    "刺激": 0.95,
-    "感觉": 1,
-    "防护": 0.3999999999999999,
-    "防护力": 1,
-    "使用后": 1
-  },
+  "keywordScores": {},
   "conflictLog": [],
-  "removedKeywords": {
-    "功效-修护": [
-      "提升防护力",
-      "防护力"
-    ]
-  },
-  "lastUpdated": "2025-07-03T09:21:48.854Z",
+  "removedKeywords": {},
+  "lastUpdated": "2025-07-03T09:29:50.119Z",
   "version": "2.4-Misaki15",
-  "userCorrections": [
-    {
-      "id": 1751534065121,
-      "resultId": 1751533950138,
-      "text": "感觉产品温和不刺激",
-      "dimension": "dimension1",
-      "oldValue": "舒缓, 其他",
-      "newValue": "舒缓, 其他",
-      "userKeyword": "",
-      "correctionType": "replace",
-      "timestamp": "2025-07-03T09:14:25.121Z",
-      "confidence": 0.7
-    },
-    {
-      "id": 1751534065121,
-      "resultId": 1751533950138,
-      "text": "感觉产品温和不刺激",
-      "dimension": "dimension2",
-      "oldValue": "温和宣称, 使用感受",
-      "newValue": "温和宣称, 使用感受",
-      "userKeyword": "",
-      "correctionType": "replace",
-      "timestamp": "2025-07-03T09:14:25.121Z",
-      "confidence": 0.8
-    },
-    {
-      "id": 1751534065121,
-      "resultId": 1751533950138,
-      "text": "感觉产品温和不刺激",
-      "dimension": "dimension3",
-      "oldValue": "即时",
-      "newValue": "即时",
-      "userKeyword": "",
-      "correctionType": "replace",
-      "timestamp": "2025-07-03T09:14:25.121Z",
-      "confidence": 0
-    },
-    {
-      "id": 1751534075156,
-      "resultId": 1751533950138,
-      "text": "感觉产品温和不刺激",
-      "dimension": "dimension1",
-      "oldValue": "其他",
-      "newValue": "其他",
-      "userKeyword": "",
-      "correctionType": "replace",
-      "timestamp": "2025-07-03T09:14:35.156Z",
-      "confidence": 0.7
-    },
-    {
-      "id": 1751534075156,
-      "resultId": 1751533950138,
-      "text": "感觉产品温和不刺激",
-      "dimension": "dimension2",
-      "oldValue": "温和宣称, 使用感受",
-      "newValue": "温和宣称, 使用感受",
-      "userKeyword": "",
-      "correctionType": "replace",
-      "timestamp": "2025-07-03T09:14:35.156Z",
-      "confidence": 0.8
-    },
-    {
-      "id": 1751534075156,
-      "resultId": 1751533950138,
-      "text": "感觉产品温和不刺激",
-      "dimension": "dimension3",
-      "oldValue": "即时",
-      "newValue": "即时",
-      "userKeyword": "",
-      "correctionType": "replace",
-      "timestamp": "2025-07-03T09:14:35.156Z",
-      "confidence": 0
-    },
-    {
-      "id": 1751534414803,
-      "resultId": 1751534364849,
-      "text": "使用后，提升宝贝肌肤防护力",
-      "dimension": "dimension1",
-      "oldValue": "修护",
-      "newValue": "修护",
-      "userKeyword": "",
-      "correctionType": "replace",
-      "timestamp": "2025-07-03T09:20:14.803Z",
-      "confidence": 0.7999999999999999
-    },
-    {
-      "id": 1751534414803,
-      "resultId": 1751534364849,
-      "text": "使用后，提升宝贝肌肤防护力",
-      "dimension": "dimension2",
-      "oldValue": "使用后体验",
-      "newValue": "使用后体验",
-      "userKeyword": "",
-      "correctionType": "replace",
-      "timestamp": "2025-07-03T09:20:14.803Z",
-      "confidence": 0.8
-    },
-    {
-      "id": 1751534414803,
-      "resultId": 1751534364849,
-      "text": "使用后，提升宝贝肌肤防护力",
-      "dimension": "dimension3",
-      "oldValue": "即时",
-      "newValue": "即时",
-      "userKeyword": "",
-      "correctionType": "replace",
-      "timestamp": "2025-07-03T09:20:14.803Z",
-      "confidence": 0
-    },
-    {
-      "id": 1751534424495,
-      "resultId": 1751534364854,
-      "text": "使用后，帮助肌肤抵御外界刺激（瓶身，多维防护）",
-      "dimension": "dimension1",
-      "oldValue": "舒缓",
-      "newValue": "舒缓",
-      "userKeyword": "",
-      "correctionType": "replace",
-      "timestamp": "2025-07-03T09:20:24.495Z",
-      "confidence": 0.9
-    },
-    {
-      "id": 1751534424495,
-      "resultId": 1751534364854,
-      "text": "使用后，帮助肌肤抵御外界刺激（瓶身，多维防护）",
-      "dimension": "dimension2",
-      "oldValue": "使用后体验",
-      "newValue": "使用后体验",
-      "userKeyword": "",
-      "correctionType": "replace",
-      "timestamp": "2025-07-03T09:20:24.495Z",
-      "confidence": 0.8
-    },
-    {
-      "id": 1751534424495,
-      "resultId": 1751534364854,
-      "text": "使用后，帮助肌肤抵御外界刺激（瓶身，多维防护）",
-      "dimension": "dimension3",
-      "oldValue": "即时",
-      "newValue": "即时",
-      "userKeyword": "",
-      "correctionType": "replace",
-      "timestamp": "2025-07-03T09:20:24.495Z",
-      "confidence": 0
-    }
-  ],
+  "userCorrections": [],
   "keywordFrequency": {},
   "learningStats": {
-    "totalCorrections": 12,
+    "totalCorrections": 0,
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
-  "lastSyncTime": "2025-07-03T09:21:49.400Z",
+  "lastSyncTime": "2025-07-03T09:29:50.488Z",
   "syncSource": "web-app"
 }
