@@ -11,7 +11,8 @@
         "去汗味"
       ],
       "清洁": [
-        "去除肌肤多余油脂"
+        "去除肌肤多余油脂",
+        "净"
       ]
     },
     "类型": {},
@@ -24,11 +25,12 @@
     "蓬蓬": 0.7,
     "亮泽": 0.7,
     "去汗味": 0.7,
-    "去除肌肤多余油脂": 0.7
+    "去除肌肤多余油脂": 0.7,
+    "净": 0.7
   },
   "conflictLog": [],
   "removedKeywords": {},
-  "lastUpdated": "2025-07-08T07:10:41.890Z",
+  "lastUpdated": "2025-07-08T07:10:44.831Z",
   "version": "2.4-Misaki15",
   "userCorrections": [],
   "keywordFrequency": {},
@@ -37,6 +39,6 @@
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
-  "lastSyncTime": "2025-07-08T07:10:42.545Z",
+  "lastSyncTime": "2025-07-08T07:10:45.255Z",
   "syncSource": "web-app"
 }
