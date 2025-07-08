@@ -1,40 +1,16 @@
 {
   "corrections": [],
   "newKeywords": {
-    "功效": {
-      "护发": [
-        "垂顺",
-        "蓬蓬",
-        "亮泽"
-      ],
-      "除臭": [
-        "去汗味"
-      ],
-      "清洁": [
-        "去除肌肤多余油脂",
-        "净"
-      ],
-      "爽身": [
-        "爽"
-      ]
-    },
+    "功效": {},
     "类型": {},
     "持续性": {}
   },
   "confidence": {},
   "userFeedback": {},
-  "keywordScores": {
-    "垂顺": 0.7,
-    "蓬蓬": 0.7,
-    "亮泽": 0.7,
-    "去汗味": 0.7,
-    "去除肌肤多余油脂": 0.7,
-    "净": 0.7,
-    "爽": 0.7
-  },
+  "keywordScores": {},
   "conflictLog": [],
   "removedKeywords": {},
-  "lastUpdated": "2025-07-08T08:05:05.914Z",
+  "lastUpdated": "2025-07-08T08:05:36.732Z",
   "version": "2.4-Misaki15",
   "userCorrections": [],
   "keywordFrequency": {},
@@ -43,9 +19,9 @@
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
-  "dataSource": "merged",
-  "lastSyncTime": "2025-07-08T08:05:06.395Z",
-  "dataVersion": 1751961890924,
-  "deviceId": "device_9cufgujyu_1751961615802",
+  "dataSource": "local",
+  "lastSyncTime": "2025-07-08T08:05:48.229Z",
+  "dataVersion": 1751961933615,
+  "deviceId": "device_jxxxgsdro_1751961933614",
   "syncSource": "web-app"
 }
