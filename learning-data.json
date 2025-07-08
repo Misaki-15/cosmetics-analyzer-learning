@@ -10,7 +10,7 @@
   "keywordScores": {},
   "conflictLog": [],
   "removedKeywords": {},
-  "lastUpdated": "2025-07-08T08:05:36.732Z",
+  "lastUpdated": "2025-07-08T09:20:27.009Z",
   "version": "2.4-Misaki15",
   "userCorrections": [],
   "keywordFrequency": {},
@@ -19,9 +19,9 @@
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
-  "dataSource": "local",
-  "lastSyncTime": "2025-07-08T08:05:48.229Z",
-  "dataVersion": 1751961933615,
+  "dataSource": "merged",
+  "lastSyncTime": "2025-07-08T09:20:27.469Z",
+  "dataVersion": 1751966422848,
   "deviceId": "device_jxxxgsdro_1751961933614",
   "syncSource": "web-app"
 }
