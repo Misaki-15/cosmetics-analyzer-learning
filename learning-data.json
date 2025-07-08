@@ -3,7 +3,8 @@
   "newKeywords": {
     "功效": {
       "护发": [
-        "垂顺"
+        "垂顺",
+        "蓬蓬"
       ]
     },
     "类型": {},
@@ -12,11 +13,12 @@
   "confidence": {},
   "userFeedback": {},
   "keywordScores": {
-    "垂顺": 0.7
+    "垂顺": 0.7,
+    "蓬蓬": 0.7
   },
   "conflictLog": [],
   "removedKeywords": {},
-  "lastUpdated": "2025-07-08T07:07:24.915Z",
+  "lastUpdated": "2025-07-08T07:07:36.005Z",
   "version": "2.4-Misaki15",
   "userCorrections": [],
   "keywordFrequency": {},
@@ -25,6 +27,6 @@
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
-  "lastSyncTime": "2025-07-08T07:07:25.557Z",
+  "lastSyncTime": "2025-07-08T07:07:37.462Z",
   "syncSource": "web-app"
 }
