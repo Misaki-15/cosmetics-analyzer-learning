@@ -1,16 +1,22 @@
 {
   "corrections": [],
   "newKeywords": {
-    "功效": {},
+    "功效": {
+      "护发": [
+        "垂顺"
+      ]
+    },
     "类型": {},
     "持续性": {}
   },
   "confidence": {},
   "userFeedback": {},
-  "keywordScores": {},
+  "keywordScores": {
+    "垂顺": 0.7
+  },
   "conflictLog": [],
   "removedKeywords": {},
-  "lastUpdated": "2025-07-09T12:56:46.221Z",
+  "lastUpdated": "2025-07-09T12:57:53.012Z",
   "version": "2.4-Misaki15",
   "userCorrections": [],
   "keywordFrequency": {},
@@ -20,8 +26,8 @@
     "lastAccuracyUpdate": null
   },
   "dataSource": "merged",
-  "lastSyncTime": "2025-07-09T12:56:46.557Z",
-  "dataVersion": 1752065801120,
+  "lastSyncTime": "2025-07-09T12:57:55.037Z",
+  "dataVersion": 1752065801121,
   "deviceId": "device_qczf7s671_1752065474507",
   "syncSource": "web-app"
 }
