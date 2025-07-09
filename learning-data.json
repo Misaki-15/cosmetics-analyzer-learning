@@ -10,7 +10,7 @@
   "keywordScores": {},
   "conflictLog": [],
   "removedKeywords": {},
-  "lastUpdated": "2025-07-09T06:08:48.811Z",
+  "lastUpdated": "2025-07-09T06:13:54.816Z",
   "version": "2.4-Misaki15",
   "userCorrections": [],
   "keywordFrequency": {},
@@ -20,8 +20,8 @@
     "lastAccuracyUpdate": null
   },
   "dataSource": "merged",
-  "lastSyncTime": "2025-07-09T06:08:49.078Z",
-  "dataVersion": 1752030395487,
+  "lastSyncTime": "2025-07-09T06:13:55.139Z",
+  "dataVersion": 1752030395489,
   "deviceId": "device_dtfl8kmto_1752030395416",
   "syncSource": "web-app"
 }
