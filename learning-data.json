@@ -34,7 +34,7 @@
   },
   "conflictLog": [],
   "removedKeywords": {},
-  "lastUpdated": "2026-04-22T02:31:39.638Z",
+  "lastUpdated": "2026-04-22T02:31:54.932Z",
   "version": "2.4-Misaki15",
   "userCorrections": [
     {
@@ -648,17 +648,53 @@
       "correctionType": "replace",
       "timestamp": "2026-04-22T02:31:36.614Z",
       "confidence": 0
+    },
+    {
+      "id": 1776825111914,
+      "resultId": 1776824760199,
+      "text": "自然甜香",
+      "dimension": "dimension1",
+      "oldValue": "芳香",
+      "newValue": "芳香",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:31:51.914Z",
+      "confidence": 0.7
+    },
+    {
+      "id": 1776825111914,
+      "resultId": 1776824760199,
+      "text": "自然甜香",
+      "dimension": "dimension2",
+      "oldValue": "使用后体验",
+      "newValue": "使用后体验",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:31:51.914Z",
+      "confidence": 0.3
+    },
+    {
+      "id": 1776825111914,
+      "resultId": 1776824760199,
+      "text": "自然甜香",
+      "dimension": "dimension3",
+      "oldValue": "即时",
+      "newValue": "即时",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:31:51.914Z",
+      "confidence": 0
     }
   ],
   "keywordFrequency": {},
   "learningStats": {
-    "totalCorrections": 54,
+    "totalCorrections": 57,
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
   "dataSource": "merged",
-  "lastSyncTime": "2026-04-22T02:31:40.024Z",
-  "dataVersion": 1752066860607,
+  "lastSyncTime": "2026-04-22T02:31:55.479Z",
+  "dataVersion": 1752066860611,
   "deviceId": "device_9cufgujyu_1751961615802",
   "syncSource": "web-app",
   "sha": "4ae6e0e3439d17acb6de45dd7c969116f9f789e0"
