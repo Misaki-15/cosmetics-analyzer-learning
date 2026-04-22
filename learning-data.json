@@ -25,11 +25,12 @@
     "舒适": 0.85,
     "保湿": 1,
     "清爽": 0.8999999999999999,
-    "感觉": 0.85
+    "感觉": 0.85,
+    "冲洗": 0.85
   },
   "conflictLog": [],
   "removedKeywords": {},
-  "lastUpdated": "2026-04-22T02:29:17.681Z",
+  "lastUpdated": "2026-04-22T02:29:33.416Z",
   "version": "2.4-Misaki15",
   "userCorrections": [
     {
@@ -355,17 +356,53 @@
       "correctionType": "replace",
       "timestamp": "2026-04-22T02:29:14.666Z",
       "confidence": 0
+    },
+    {
+      "id": 1776824970402,
+      "resultId": 1776824760173,
+      "text": "好冲洗",
+      "dimension": "dimension1",
+      "oldValue": "其他",
+      "newValue": "其他",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:29:30.402Z",
+      "confidence": 0.7
+    },
+    {
+      "id": 1776824970402,
+      "resultId": 1776824760173,
+      "text": "好冲洗",
+      "dimension": "dimension2",
+      "oldValue": "使用感受",
+      "newValue": "使用感受",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:29:30.402Z",
+      "confidence": 0.3
+    },
+    {
+      "id": 1776824970402,
+      "resultId": 1776824760173,
+      "text": "好冲洗",
+      "dimension": "dimension3",
+      "oldValue": "即时",
+      "newValue": "即时",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:29:30.402Z",
+      "confidence": 0
     }
   ],
   "keywordFrequency": {},
   "learningStats": {
-    "totalCorrections": 30,
+    "totalCorrections": 33,
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
   "dataSource": "merged",
-  "lastSyncTime": "2026-04-22T02:29:18.173Z",
-  "dataVersion": 1752066860575,
+  "lastSyncTime": "2026-04-22T02:29:33.779Z",
+  "dataVersion": 1752066860579,
   "deviceId": "device_9cufgujyu_1751961615802",
   "syncSource": "web-app",
   "sha": "4ae6e0e3439d17acb6de45dd7c969116f9f789e0"
