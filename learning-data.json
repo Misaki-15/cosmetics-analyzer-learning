@@ -26,7 +26,7 @@
   },
   "conflictLog": [],
   "removedKeywords": {},
-  "lastUpdated": "2026-04-22T02:28:35.739Z",
+  "lastUpdated": "2026-04-22T02:28:47.546Z",
   "version": "2.4-Misaki15",
   "userCorrections": [
     {
@@ -244,17 +244,53 @@
       "correctionType": "replace",
       "timestamp": "2026-04-22T02:28:32.714Z",
       "confidence": 0
+    },
+    {
+      "id": 1776824924522,
+      "resultId": 1776824760168,
+      "text": "洗后肌肤感到柔软",
+      "dimension": "dimension1",
+      "oldValue": "其他",
+      "newValue": "其他",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:28:44.522Z",
+      "confidence": 0.1
+    },
+    {
+      "id": 1776824924522,
+      "resultId": 1776824760168,
+      "text": "洗后肌肤感到柔软",
+      "dimension": "dimension2",
+      "oldValue": "使用后体验",
+      "newValue": "使用后体验",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:28:44.522Z",
+      "confidence": 0.3
+    },
+    {
+      "id": 1776824924522,
+      "resultId": 1776824760168,
+      "text": "洗后肌肤感到柔软",
+      "dimension": "dimension3",
+      "oldValue": "即时",
+      "newValue": "即时",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:28:44.522Z",
+      "confidence": 0
     }
   ],
   "keywordFrequency": {},
   "learningStats": {
-    "totalCorrections": 21,
+    "totalCorrections": 24,
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
   "dataSource": "merged",
-  "lastSyncTime": "2026-04-22T02:28:36.077Z",
-  "dataVersion": 1752066860563,
+  "lastSyncTime": "2026-04-22T02:28:47.930Z",
+  "dataVersion": 1752066860567,
   "deviceId": "device_9cufgujyu_1751961615802",
   "syncSource": "web-app",
   "sha": "4ae6e0e3439d17acb6de45dd7c969116f9f789e0"
