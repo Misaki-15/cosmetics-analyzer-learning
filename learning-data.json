@@ -25,7 +25,7 @@
   },
   "conflictLog": [],
   "removedKeywords": {},
-  "lastUpdated": "2026-04-22T02:27:15.168Z",
+  "lastUpdated": "2026-04-22T02:27:26.443Z",
   "version": "2.4-Misaki15",
   "userCorrections": [
     {
@@ -63,17 +63,53 @@
       "correctionType": "replace",
       "timestamp": "2026-04-22T02:27:12.154Z",
       "confidence": 0
+    },
+    {
+      "id": 1776824843426,
+      "resultId": 1776824760162,
+      "text": "使用产品后感到舒缓放松",
+      "dimension": "dimension1",
+      "oldValue": "舒缓",
+      "newValue": "舒缓",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:27:23.426Z",
+      "confidence": 0.7
+    },
+    {
+      "id": 1776824843426,
+      "resultId": 1776824760162,
+      "text": "使用产品后感到舒缓放松",
+      "dimension": "dimension2",
+      "oldValue": "使用后体验",
+      "newValue": "使用后体验",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:27:23.426Z",
+      "confidence": 0.3
+    },
+    {
+      "id": 1776824843426,
+      "resultId": 1776824760162,
+      "text": "使用产品后感到舒缓放松",
+      "dimension": "dimension3",
+      "oldValue": "即时",
+      "newValue": "即时",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:27:23.426Z",
+      "confidence": 0
     }
   ],
   "keywordFrequency": {},
   "learningStats": {
-    "totalCorrections": 6,
+    "totalCorrections": 9,
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
   "dataSource": "merged",
-  "lastSyncTime": "2026-04-22T02:27:15.518Z",
-  "dataVersion": 1752066860543,
+  "lastSyncTime": "2026-04-22T02:27:26.763Z",
+  "dataVersion": 1752066860547,
   "deviceId": "device_9cufgujyu_1751961615802",
   "syncSource": "web-app",
   "sha": "4ae6e0e3439d17acb6de45dd7c969116f9f789e0"
