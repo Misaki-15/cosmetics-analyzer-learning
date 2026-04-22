@@ -28,11 +28,13 @@
     "感觉": 0.85,
     "冲洗": 0.85,
     "刺激": 0.7,
-    "不刺激": 1
+    "不刺激": 1,
+    "香": 1,
+    "柔和": 0.85
   },
   "conflictLog": [],
   "removedKeywords": {},
-  "lastUpdated": "2026-04-22T02:31:08.825Z",
+  "lastUpdated": "2026-04-22T02:31:29.864Z",
   "version": "2.4-Misaki15",
   "userCorrections": [
     {
@@ -574,17 +576,53 @@
       "correctionType": "replace",
       "timestamp": "2026-04-22T02:31:05.810Z",
       "confidence": 0
+    },
+    {
+      "id": 1776825086850,
+      "resultId": 1776824760189,
+      "text": "淡雅清香, 闻起来柔和清新",
+      "dimension": "dimension1",
+      "oldValue": "芳香",
+      "newValue": "芳香",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:31:26.850Z",
+      "confidence": 0.7
+    },
+    {
+      "id": 1776825086850,
+      "resultId": 1776824760189,
+      "text": "淡雅清香, 闻起来柔和清新",
+      "dimension": "dimension2",
+      "oldValue": "使用后体验",
+      "newValue": "使用后体验",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:31:26.850Z",
+      "confidence": 0.8
+    },
+    {
+      "id": 1776825086850,
+      "resultId": 1776824760189,
+      "text": "淡雅清香, 闻起来柔和清新",
+      "dimension": "dimension3",
+      "oldValue": "即时",
+      "newValue": "即时",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:31:26.850Z",
+      "confidence": 0
     }
   ],
   "keywordFrequency": {},
   "learningStats": {
-    "totalCorrections": 48,
+    "totalCorrections": 51,
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
   "dataSource": "merged",
-  "lastSyncTime": "2026-04-22T02:31:10.854Z",
-  "dataVersion": 1752066860599,
+  "lastSyncTime": "2026-04-22T02:31:30.407Z",
+  "dataVersion": 1752066860603,
   "deviceId": "device_9cufgujyu_1751961615802",
   "syncSource": "web-app",
   "sha": "4ae6e0e3439d17acb6de45dd7c969116f9f789e0"
