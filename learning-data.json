@@ -27,12 +27,12 @@
     "清爽": 0.8999999999999999,
     "感觉": 0.85,
     "冲洗": 0.85,
-    "刺激": 0.85,
+    "刺激": 0.7,
     "不刺激": 1
   },
   "conflictLog": [],
   "removedKeywords": {},
-  "lastUpdated": "2026-04-22T02:30:05.887Z",
+  "lastUpdated": "2026-04-22T02:30:35.970Z",
   "version": "2.4-Misaki15",
   "userCorrections": [
     {
@@ -502,17 +502,53 @@
       "correctionType": "replace",
       "timestamp": "2026-04-22T02:30:02.866Z",
       "confidence": 0
+    },
+    {
+      "id": 1776825032953,
+      "resultId": 1776824760182,
+      "text": "入眼不刺激",
+      "dimension": "dimension1",
+      "oldValue": "其他",
+      "newValue": "其他",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:30:32.953Z",
+      "confidence": 0.7
+    },
+    {
+      "id": 1776825032953,
+      "resultId": 1776824760182,
+      "text": "入眼不刺激",
+      "dimension": "dimension2",
+      "oldValue": "温和宣称",
+      "newValue": "温和宣称",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:30:32.953Z",
+      "confidence": 0.8
+    },
+    {
+      "id": 1776825032953,
+      "resultId": 1776824760182,
+      "text": "入眼不刺激",
+      "dimension": "dimension3",
+      "oldValue": "即时",
+      "newValue": "即时",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:30:32.953Z",
+      "confidence": 0
     }
   ],
   "keywordFrequency": {},
   "learningStats": {
-    "totalCorrections": 42,
+    "totalCorrections": 45,
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
   "dataSource": "merged",
-  "lastSyncTime": "2026-04-22T02:30:06.623Z",
-  "dataVersion": 1752066860591,
+  "lastSyncTime": "2026-04-22T02:30:36.564Z",
+  "dataVersion": 1752066860595,
   "deviceId": "device_9cufgujyu_1751961615802",
   "syncSource": "web-app",
   "sha": "4ae6e0e3439d17acb6de45dd7c969116f9f789e0"
