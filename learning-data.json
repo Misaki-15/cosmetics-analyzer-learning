@@ -30,11 +30,12 @@
     "刺激": 0.7,
     "不刺激": 1,
     "香": 1,
-    "柔和": 0.85
+    "柔和": 0.85,
+    "留香": 1
   },
   "conflictLog": [],
   "removedKeywords": {},
-  "lastUpdated": "2026-04-22T02:32:00.481Z",
+  "lastUpdated": "2026-04-22T02:32:07.667Z",
   "version": "2.4-Misaki15",
   "userCorrections": [
     {
@@ -720,17 +721,53 @@
       "correctionType": "replace",
       "timestamp": "2026-04-22T02:31:57.466Z",
       "confidence": 0
+    },
+    {
+      "id": 1776825124653,
+      "resultId": 1776824760194,
+      "text": "衣物留香",
+      "dimension": "dimension1",
+      "oldValue": "芳香",
+      "newValue": "芳香",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:32:04.653Z",
+      "confidence": 0.7
+    },
+    {
+      "id": 1776825124653,
+      "resultId": 1776824760194,
+      "text": "衣物留香",
+      "dimension": "dimension2",
+      "oldValue": "使用后体验",
+      "newValue": "使用后体验",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:32:04.653Z",
+      "confidence": 0.3
+    },
+    {
+      "id": 1776825124653,
+      "resultId": 1776824760194,
+      "text": "衣物留香",
+      "dimension": "dimension3",
+      "oldValue": "即时",
+      "newValue": "即时",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:32:04.653Z",
+      "confidence": 0
     }
   ],
   "keywordFrequency": {},
   "learningStats": {
-    "totalCorrections": 60,
+    "totalCorrections": 63,
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
   "dataSource": "merged",
-  "lastSyncTime": "2026-04-22T02:32:01.110Z",
-  "dataVersion": 1752066860615,
+  "lastSyncTime": "2026-04-22T02:32:08.193Z",
+  "dataVersion": 1752066860619,
   "deviceId": "device_9cufgujyu_1751961615802",
   "syncSource": "web-app",
   "sha": "4ae6e0e3439d17acb6de45dd7c969116f9f789e0"
