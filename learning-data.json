@@ -32,7 +32,7 @@
   },
   "conflictLog": [],
   "removedKeywords": {},
-  "lastUpdated": "2026-04-22T02:30:35.970Z",
+  "lastUpdated": "2026-04-22T02:31:08.825Z",
   "version": "2.4-Misaki15",
   "userCorrections": [
     {
@@ -538,17 +538,53 @@
       "correctionType": "replace",
       "timestamp": "2026-04-22T02:30:32.953Z",
       "confidence": 0
+    },
+    {
+      "id": 1776825065810,
+      "resultId": 1776824760184,
+      "text": "洗后不拔干",
+      "dimension": "dimension1",
+      "oldValue": "保湿",
+      "newValue": "保湿",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:31:05.810Z",
+      "confidence": 0.1
+    },
+    {
+      "id": 1776825065810,
+      "resultId": 1776824760184,
+      "text": "洗后不拔干",
+      "dimension": "dimension2",
+      "oldValue": "使用后体验",
+      "newValue": "使用后体验",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:31:05.810Z",
+      "confidence": 0.3
+    },
+    {
+      "id": 1776825065810,
+      "resultId": 1776824760184,
+      "text": "洗后不拔干",
+      "dimension": "dimension3",
+      "oldValue": "即时",
+      "newValue": "即时",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:31:05.810Z",
+      "confidence": 0
     }
   ],
   "keywordFrequency": {},
   "learningStats": {
-    "totalCorrections": 45,
+    "totalCorrections": 48,
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
   "dataSource": "merged",
-  "lastSyncTime": "2026-04-22T02:30:36.564Z",
-  "dataVersion": 1752066860595,
+  "lastSyncTime": "2026-04-22T02:31:10.854Z",
+  "dataVersion": 1752066860599,
   "deviceId": "device_9cufgujyu_1751961615802",
   "syncSource": "web-app",
   "sha": "4ae6e0e3439d17acb6de45dd7c969116f9f789e0"
