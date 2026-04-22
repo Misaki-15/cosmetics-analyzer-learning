@@ -34,7 +34,7 @@
   },
   "conflictLog": [],
   "removedKeywords": {},
-  "lastUpdated": "2026-04-22T02:31:54.932Z",
+  "lastUpdated": "2026-04-22T02:32:00.481Z",
   "version": "2.4-Misaki15",
   "userCorrections": [
     {
@@ -684,17 +684,53 @@
       "correctionType": "replace",
       "timestamp": "2026-04-22T02:31:51.914Z",
       "confidence": 0
+    },
+    {
+      "id": 1776825117466,
+      "resultId": 1776824760197,
+      "text": "有助于睡的更好",
+      "dimension": "dimension1",
+      "oldValue": "其他",
+      "newValue": "其他",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:31:57.466Z",
+      "confidence": 0.1
+    },
+    {
+      "id": 1776825117466,
+      "resultId": 1776824760197,
+      "text": "有助于睡的更好",
+      "dimension": "dimension2",
+      "oldValue": "使用后体验",
+      "newValue": "使用后体验",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:31:57.466Z",
+      "confidence": 0.3
+    },
+    {
+      "id": 1776825117466,
+      "resultId": 1776824760197,
+      "text": "有助于睡的更好",
+      "dimension": "dimension3",
+      "oldValue": "即时",
+      "newValue": "即时",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:31:57.466Z",
+      "confidence": 0
     }
   ],
   "keywordFrequency": {},
   "learningStats": {
-    "totalCorrections": 57,
+    "totalCorrections": 60,
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
   "dataSource": "merged",
-  "lastSyncTime": "2026-04-22T02:31:55.479Z",
-  "dataVersion": 1752066860611,
+  "lastSyncTime": "2026-04-22T02:32:01.110Z",
+  "dataVersion": 1752066860615,
   "deviceId": "device_9cufgujyu_1751961615802",
   "syncSource": "web-app",
   "sha": "4ae6e0e3439d17acb6de45dd7c969116f9f789e0"
