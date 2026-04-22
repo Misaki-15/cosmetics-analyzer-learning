@@ -20,22 +20,23 @@
     "垂顺": 0.7,
     "蓬蓬": 0.7,
     "亮泽": 0.7,
-    "防护力": 0.7
+    "防护力": 0.7,
+    "舒缓": 1
   },
   "conflictLog": [],
   "removedKeywords": {},
-  "lastUpdated": "2026-04-22T02:25:42.855Z",
+  "lastUpdated": "2026-04-22T02:26:39.625Z",
   "version": "2.4-Misaki15",
   "userCorrections": [],
   "keywordFrequency": {},
   "learningStats": {
-    "totalCorrections": 0,
+    "totalCorrections": 2,
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
   "dataSource": "merged",
-  "lastSyncTime": "2026-04-22T02:25:43.134Z",
-  "dataVersion": 1752066860534,
+  "lastSyncTime": "2026-04-22T02:26:41.476Z",
+  "dataVersion": 1752066860537,
   "deviceId": "device_9cufgujyu_1751961615802",
   "syncSource": "web-app",
   "sha": "4ae6e0e3439d17acb6de45dd7c969116f9f789e0"
