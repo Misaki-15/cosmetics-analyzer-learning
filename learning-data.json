@@ -25,18 +25,55 @@
   },
   "conflictLog": [],
   "removedKeywords": {},
-  "lastUpdated": "2026-04-22T02:26:50.724Z",
+  "lastUpdated": "2026-04-22T02:27:15.168Z",
   "version": "2.4-Misaki15",
-  "userCorrections": [],
+  "userCorrections": [
+    {
+      "id": 1776824832154,
+      "resultId": 1776824760160,
+      "text": "舒缓宝宝干燥的肌肤",
+      "dimension": "dimension1",
+      "oldValue": "舒缓",
+      "newValue": "舒缓",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:27:12.154Z",
+      "confidence": 0.7
+    },
+    {
+      "id": 1776824832154,
+      "resultId": 1776824760160,
+      "text": "舒缓宝宝干燥的肌肤",
+      "dimension": "dimension2",
+      "oldValue": "使用后体验",
+      "newValue": "使用后体验",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:27:12.154Z",
+      "confidence": 0.3
+    },
+    {
+      "id": 1776824832154,
+      "resultId": 1776824760160,
+      "text": "舒缓宝宝干燥的肌肤",
+      "dimension": "dimension3",
+      "oldValue": "即时",
+      "newValue": "即时",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:27:12.154Z",
+      "confidence": 0
+    }
+  ],
   "keywordFrequency": {},
   "learningStats": {
-    "totalCorrections": 3,
+    "totalCorrections": 6,
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
   "dataSource": "merged",
-  "lastSyncTime": "2026-04-22T02:26:51.018Z",
-  "dataVersion": 1752066860539,
+  "lastSyncTime": "2026-04-22T02:27:15.518Z",
+  "dataVersion": 1752066860543,
   "deviceId": "device_9cufgujyu_1751961615802",
   "syncSource": "web-app",
   "sha": "4ae6e0e3439d17acb6de45dd7c969116f9f789e0"
