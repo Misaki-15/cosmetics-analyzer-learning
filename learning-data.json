@@ -30,7 +30,7 @@
   },
   "conflictLog": [],
   "removedKeywords": {},
-  "lastUpdated": "2026-04-22T02:29:33.416Z",
+  "lastUpdated": "2026-04-22T02:29:39.888Z",
   "version": "2.4-Misaki15",
   "userCorrections": [
     {
@@ -392,17 +392,53 @@
       "correctionType": "replace",
       "timestamp": "2026-04-22T02:29:30.402Z",
       "confidence": 0
+    },
+    {
+      "id": 1776824976875,
+      "resultId": 1776824760171,
+      "text": "细致呵护宝宝肌肤健康",
+      "dimension": "dimension1",
+      "oldValue": "其他",
+      "newValue": "其他",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:29:36.875Z",
+      "confidence": 0.1
+    },
+    {
+      "id": 1776824976875,
+      "resultId": 1776824760171,
+      "text": "细致呵护宝宝肌肤健康",
+      "dimension": "dimension2",
+      "oldValue": "使用后体验",
+      "newValue": "使用后体验",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:29:36.875Z",
+      "confidence": 0.3
+    },
+    {
+      "id": 1776824976875,
+      "resultId": 1776824760171,
+      "text": "细致呵护宝宝肌肤健康",
+      "dimension": "dimension3",
+      "oldValue": "即时",
+      "newValue": "即时",
+      "userKeyword": "",
+      "correctionType": "replace",
+      "timestamp": "2026-04-22T02:29:36.875Z",
+      "confidence": 0
     }
   ],
   "keywordFrequency": {},
   "learningStats": {
-    "totalCorrections": 33,
+    "totalCorrections": 36,
     "accuracyRate": 100,
     "lastAccuracyUpdate": null
   },
   "dataSource": "merged",
-  "lastSyncTime": "2026-04-22T02:29:33.779Z",
-  "dataVersion": 1752066860579,
+  "lastSyncTime": "2026-04-22T02:29:40.242Z",
+  "dataVersion": 1752066860583,
   "deviceId": "device_9cufgujyu_1751961615802",
   "syncSource": "web-app",
   "sha": "4ae6e0e3439d17acb6de45dd7c969116f9f789e0"
