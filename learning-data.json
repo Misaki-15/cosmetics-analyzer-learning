@@ -35,7 +35,7 @@
   },
   "conflictLog": [],
   "removedKeywords": {},
-  "lastUpdated": "2026-04-27T03:17:05.084Z",
+  "lastUpdated": "2026-04-28T07:40:28.569Z",
   "version": "2.4-Misaki15",
   "userCorrections": [
     {
@@ -766,9 +766,9 @@
     "lastAccuracyUpdate": null
   },
   "dataSource": "merged",
-  "lastSyncTime": "2026-04-27T03:17:05.350Z",
-  "dataVersion": 1752066860643,
-  "deviceId": "device_9cufgujyu_1751961615802",
+  "lastSyncTime": "2026-04-28T07:40:28.870Z",
+  "dataVersion": 1752066860644,
+  "deviceId": "device_jq9fmobkq_1777362024145",
   "syncSource": "web-app",
-  "sha": "8a8148ca324cafc57e475435b30b93159aff6568"
+  "sha": "14c8afb06a2742babf39ad776f47b76de4595e4a"
 }
